@@ -10,3 +10,4 @@ Although I am familiar with a vast amount of software development technologies, 
 * React
 * Git
 * NodeJS
+* WordPress
