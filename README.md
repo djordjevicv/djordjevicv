@@ -36,7 +36,7 @@
         height="48"
         alt="HTML"
       />
-      <br /><strong>HTML</strong>
+      <br /><strong>HTML5</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
