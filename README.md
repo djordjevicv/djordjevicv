@@ -22,7 +22,7 @@
     </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
         width="48"
         height="48"
         alt="CSS"
