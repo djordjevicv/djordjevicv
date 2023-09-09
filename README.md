@@ -31,7 +31,7 @@
     </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-plain.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
         width="48"
         height="48"
         alt="HTML"
