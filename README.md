@@ -13,6 +13,15 @@ My name is Vojin.
 
 <table>
   <tr>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+      </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -30,15 +39,15 @@ My name is Vojin.
         alt="CSS"
       />
       <br /><strong>CSS</strong>
-    </td>
-      <td align="center" height="108" width="108">
+      </td>
+     <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
         height="48"
-        alt="HTML"
+        alt="Bootstrap"
       />
-      <br /><strong>HTML5</strong>
+      <br /><strong>Bootstrap</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -57,15 +66,6 @@ My name is Vojin.
         alt="Redux"
       />
       <br /><strong>Redux</strong>
-    </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
