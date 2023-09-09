@@ -94,6 +94,15 @@
       />
       <br /><strong>Express.js</strong>
     </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://knexjs.org/knex-logo.png"
+        width="48"
+        height="48"
+        alt="Knex.js"
+      />
+      <br /><strong>Knex.js</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
