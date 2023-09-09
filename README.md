@@ -1,9 +1,9 @@
 # 👋 Hello there
 
 <div align="justify">
-My name is Vojin. 
-<br><br>I'm a CS Student and Javascript Developer who obviously loves to work with JavaScript technologies. I am passionate about self-development when it comes to both personal and professional life, which is why I try to learn from my mentors and my mistakes on a daily basis. 
-<br><br>Besides programming, I enjoy spending my free time volunteering, playing guitar in a rock band, reading and working out. 
+My name is Vojin.
+<br>I'm a CS Student and Javascript Developer who obviously loves to work with JavaScript technologies. I am passionate about self-development when it comes to both personal and professional life, which is why I try to learn from my mentors and my mistakes on a daily basis. 
+<br>Besides programming, I enjoy spending my free time volunteering, playing guitar in a rock band, reading and working out. 
 </div>
 
 <br/><a href="https://www.linkedin.com/in/djordjevicv"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
