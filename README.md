@@ -16,9 +16,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
         height="48"
-        alt="HTML5"
+        alt="JavaScript"
       />
-      <br /><strong>HTML5</strong>
+      <br /><strong>JavaScript</strong>
     </td>
       <td align="center" height="108" width="108">
       <img
