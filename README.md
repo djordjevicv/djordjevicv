@@ -16,9 +16,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
         height="48"
-        alt="JavaScript"
+        alt="HTML5"
       />
-      <br /><strong>JavaScript</strong>
+      <br /><strong>HTML5</strong>
     </td>
       <td align="center" height="108" width="108">
       <img
@@ -31,10 +31,10 @@
     </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html"
         width="48"
         height="48"
-        alt="JavaScript"
+        alt="HTML"
       />
       <br /><strong>JavaScript</strong>
     </td>
