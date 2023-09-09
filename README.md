@@ -58,12 +58,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="npm"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>npm</strong>
     </td>
   </tr>
   <tr>
