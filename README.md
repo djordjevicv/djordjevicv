@@ -67,7 +67,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-plain.svg"
         width="60"
         height="48"
         alt="npm"
