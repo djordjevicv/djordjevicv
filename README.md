@@ -22,7 +22,7 @@
     </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+        src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"
         width="48"
         height="48"
         alt="CSS"
