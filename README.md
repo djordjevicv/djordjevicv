@@ -59,7 +59,7 @@
     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"
-        width="48"
+        width="60"
         height="48"
         alt="npm"
       />
