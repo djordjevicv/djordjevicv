@@ -114,5 +114,14 @@ My name is Vojin.
       />
       <br /><strong>PostgreSQL</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
   </tr>
 </table>
