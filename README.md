@@ -22,7 +22,7 @@
     </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"
         width="48"
         height="48"
         alt="CSS"
