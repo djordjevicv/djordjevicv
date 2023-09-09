@@ -31,30 +31,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tachyons/tachyonscss-plain.svg"
-        width="48"
-        height="48"
-        alt="Tailwind"
-      />
-      <br /><strong>Tachyons</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
         height="48"
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="Material UI"
-      />
-      <br /><strong>Material UI</strong>
     </td>
   </tr>
   <tr>
