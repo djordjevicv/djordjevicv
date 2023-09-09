@@ -67,7 +67,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg"
         width="60"
         height="48"
         alt="npm"
