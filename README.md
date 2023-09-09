@@ -31,7 +31,7 @@
     </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"
         width="48"
         height="48"
         alt="HTML"
