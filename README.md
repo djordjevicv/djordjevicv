@@ -2,7 +2,7 @@
 
 <div align="justify">
 My name is Vojin.
-<br>I'm a CS Student and Javascript Developer who, needless to say, loves working with JavaScript technologies. I am passionate about self-development when it comes to both personal and professional life, which is why I am learning from my mentors and mistakes on a daily basis. 
+<br>I'm a CS student and JavaScript developer who, needless to say, loves working with JavaScript technologies. I am passionate about self-development when it comes to both personal and professional life, which is why I am learning from my mentors and mistakes on a daily basis. 
 <br>Besides programming, I enjoy spending my free time travelling, volunteering, playing guitar in a rock band, reading and working out. 
 </div>
 
