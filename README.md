@@ -16,8 +16,8 @@ My name is Vojin.
       <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="HTML"
       />
       <br /><strong>HTML5</strong>
@@ -25,8 +25,8 @@ My name is Vojin.
       <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="CSS"
       />
       <br /><strong>CSS</strong>
@@ -34,8 +34,8 @@ My name is Vojin.
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="JavaScript"
       />
       <br /><strong>JavaScript</strong>
@@ -43,8 +43,8 @@ My name is Vojin.
      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="Bootstrap"
       />
       <br /><strong>Bootstrap</strong>
@@ -52,8 +52,8 @@ My name is Vojin.
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="React"
       />
       <br /><strong>React</strong>
@@ -61,8 +61,8 @@ My name is Vojin.
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="Redux"
       />
       <br /><strong>Redux</strong>
@@ -81,8 +81,8 @@ My name is Vojin.
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="Express"
       />
       <br /><strong>Express.js</strong>
@@ -90,8 +90,8 @@ My name is Vojin.
       <td align="center" height="108" width="108">
       <img
         src="https://knexjs.org/knex-logo.png"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="Knex.js"
       />
       <br /><strong>Knex.js</strong>
@@ -99,8 +99,8 @@ My name is Vojin.
     <td align="center" height="108" width="108">
       <img
         src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="Git"
       />
       <br /><strong>Git</strong>
@@ -109,7 +109,7 @@ My name is Vojin.
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"
         width="60"
-        height="48"
+        height="40"
         alt="npm"
       />
       <br /><strong>npm</strong>
@@ -120,8 +120,8 @@ My name is Vojin.
      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="mysql"
       />
       <br /><strong>MySQL</strong>
@@ -129,8 +129,8 @@ My name is Vojin.
      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
+        width="40"
+        height="40"
         alt="PostgreSQL"
       />
       <br /><strong>PostgreSQL</strong>
@@ -138,8 +138,8 @@ My name is Vojin.
     <td align="center" height="108" width="108">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-          width="70"
-          height="48"
+          width="40"
+          height="40"
           alt="java"
         />
         <br /><strong>Java</strong>
@@ -147,8 +147,8 @@ My name is Vojin.
       <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-        width="70"
-        height="48"
+        width="40"
+        height="40"
         alt="c++"
       />
       <br /><strong>C++</strong>
