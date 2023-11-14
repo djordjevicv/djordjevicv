@@ -98,15 +98,6 @@ My name is Vojin.
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
         width="48"
         height="48"
@@ -117,11 +108,53 @@ My name is Vojin.
     <td align="center" height="108" width="108">
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"
-        width="70"
+        width="60"
         height="48"
         alt="npm"
       />
       <br /><strong>npm</strong>
     </td>
+  </tr>
+    
+  <tr>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        width="48"
+        height="48"
+        alt="mysql"
+      />
+      <br /><strong>MySQL</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+          width="70"
+          height="48"
+          alt="java"
+        />
+        <br /><strong>Java</strong>
+      </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        width="70"
+        height="48"
+        alt="c++"
+      />
+      <br /><strong>C++</strong>
+    </td>
+  </tr>
+  <tr>
+    
   </tr>
 </table>
