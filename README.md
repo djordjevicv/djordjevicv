@@ -1,4 +1,4 @@
-# 👋 Hello there
+# 👋🏻 Hello there
 
 <div align="justify">
 My name is Vojin.
