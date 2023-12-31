@@ -58,6 +58,24 @@ My name is Vojin.
       />
       <br /><strong>React</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.png"
+        width="50"
+        height="35"
+        alt="React Router"
+      />
+      <br /><strong>React Router</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"
+        width="40"
+        height="40"
+        alt="React Query"
+      />
+      <br /><strong>React Query</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
