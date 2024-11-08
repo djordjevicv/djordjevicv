@@ -1,9 +1,23 @@
 # 👋🏻 Hello there
 
 <div align="justify">
-My name is Vojin.
-<br>I'm a CS student and JavaScript developer who, needless to say, loves working with JavaScript technologies. I am passionate about self-development when it comes to both personal and professional life, which is why I am learning from my mentors and mistakes on a daily basis. 
-<br>Besides programming, I enjoy spending my free time travelling, volunteering, playing guitar in a rock band, reading and working out. 
+Hi, my name is Vojin. Nice to meet you! 👋🏻
+<br>
+<br>I'm a full-stack software developer and computer science student on a lookout for the opportunity to collaborate with you on building software solutions from the ground up, or bring the existing ones to the next level. I specialize in:
+<br>✅ Front-End Web Development
+<br>✅ Back-End Web Development
+<br>✅ Mobile App Development
+<br>
+<br>My tech stack:
+React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | MySQL | SQL | TypeScript | JavaScript | Bootstrap | CSS | HTML | Git | PHP | Java | C++
+<br>*even if the technology you need isn't on the list, I learn fast.
+  <br>
+  <br>Few more notes about me:
+<br>  📝 I plan in advance and put much effort into building scalable and maintainable solutions.
+<br>⚡ My speed has positively surprised my colleagues, mentors and professors multiple times.
+<br>🤝🏻 Although I can work independently, I enjoy working in collaborative environments.
+<br>🚀 As an avid learner, I prefer taking on challenging projects that drive technological 
+ innovation.
 </div>
 
 <br/><a href="https://www.linkedin.com/in/djordjevicv"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
