@@ -56,7 +56,7 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
     </td>
      <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg"
         width="40"
         height="40"
         alt="Bootstrap"
@@ -74,25 +74,16 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
     </td>
      <td align="center" height="108" width="108">
       <img
-        src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.png"
-        width="50"
-        height="35"
-        alt="React Router"
-      />
-      <br /><strong>React Router</strong>
-    </td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png"
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg"
         width="40"
         height="40"
-        alt="React Query"
+        alt="Next.js"
       />
-      <br /><strong>React Query</strong>
+      <br /><strong>Next.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/redux/redux-original.svg"
         width="40"
         height="40"
         alt="Redux"
@@ -141,7 +132,7 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
       <img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"
         width="60"
-        height="40"
+        height="30"
         alt="npm"
       />
       <br /><strong>npm</strong>
@@ -184,6 +175,15 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
         alt="c++"
       />
       <br /><strong>C++</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg"
+        width="40"
+        height="40"
+        alt="python"
+      />
+      <br /><strong>Python</strong>
     </td>
   </tr>
   <tr>
