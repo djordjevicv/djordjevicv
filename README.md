@@ -5,19 +5,14 @@ I'm a <b>full-stack software developer</b> and <b>computer science student</b> o
 <br>✅ Front-End Web Development
 <br>✅ Back-End Web Development
 <br>✅ Mobile App Development
-<br>
-<br>My tech stack:
-React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | MySQL | SQL | TypeScript | JavaScript | Bootstrap | CSS | HTML | Git | PHP | Java | C++
-<br>*even if the technology you need isn't on the list, I learn fast.
-  <br>
-  <br>Few more notes about me:
-<br>  📝 I plan in advance and put much effort into building scalable and maintainable solutions.
+  
+### Few more notes about me:
+📝 I plan in advance and put much effort into building scalable and maintainable solutions.
 <br>⚡ My speed has positively surprised my colleagues, mentors and professors multiple times.
 <br>🤝🏻 Although I can work independently, I enjoy working in collaborative environments.
 <br>🚀 As an avid learner, I prefer taking on challenging projects that drive technological 
  innovation.
 </div>
-<br/>
 
 # 🔧 Technologies & Tools
 <table>
