@@ -52,6 +52,15 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
       />
       <br /><strong>JavaScript</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg"
+        width="40"
+        height="40"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
      <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg"
@@ -101,9 +110,9 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="40"
-        height="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/express/express-original.svg"
+        width="50"
+        height="50"
         alt="Express"
       />
       <br /><strong>Express.js</strong>
@@ -134,6 +143,33 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
         alt="npm"
       />
       <br /><strong>npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wordpress/wordpress-plain.svg"
+        width="40"
+        height="40"
+        alt="wordpress"
+      />
+      <br /><strong>WordPress</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/woocommerce/woocommerce-original.svg"
+        width="40"
+        height="40"
+        alt="woocommerce"
+      />
+      <br /><strong>WooCommerce</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/figma/figma-original.svg"
+        width="40"
+        height="40"
+        alt="figma"
+      />
+      <br /><strong>Figma</strong>
     </td>
   </tr>
     
