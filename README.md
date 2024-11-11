@@ -216,6 +216,15 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
       />
       <br /><strong>Python</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg"
+        width="40"
+        height="40"
+        alt="php"
+      />
+      <br /><strong>PHP</strong>
+    </td>
   </tr>
   <tr>
     
