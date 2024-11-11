@@ -17,12 +17,9 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
 <br>🚀 As an avid learner, I prefer taking on challenging projects that drive technological 
  innovation.
 </div>
-
-<br/><a href="https://www.linkedin.com/in/djordjevicv"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:djordjevicv.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<br/>
 
 # 🔧 Technologies & Tools
-
 <table>
   <tr>
       <td align="center" height="108" width="108">
