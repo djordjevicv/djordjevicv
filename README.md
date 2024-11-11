@@ -1,9 +1,7 @@
-# 👋🏻 Hello there
+# Hi, my name is Vojin. Nice to meet you! 👋🏻
 
 <div align="justify">
-Hi, my name is Vojin. Nice to meet you! 👋🏻
-<br>
-<br>I'm a full-stack software developer and computer science student on a lookout for the opportunity to collaborate with you on building software solutions from the ground up, or bring the existing ones to the next level. I specialize in:
+I'm a full-stack software developer and computer science student on a lookout for the opportunity to collaborate with you on building software solutions from the ground up, or bring the existing ones to the next level. I specialize in:
 <br>✅ Front-End Web Development
 <br>✅ Back-End Web Development
 <br>✅ Mobile App Development
