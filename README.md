@@ -198,14 +198,14 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
         />
         <br /><strong>Java</strong>
       </td>
-      <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-        width="40"
-        height="40"
-        alt="c++"
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg"
+        width="50"
+        height="50"
+        alt="php"
       />
-      <br /><strong>C++</strong>
+      <br /><strong>PHP</strong>
     </td>
      <td align="center" height="108" width="108">
       <img
@@ -216,14 +216,23 @@ React.js | React Native | Redux | Next.js | Node.js | Express.js | PostgreSQL | 
       />
       <br /><strong>Python</strong>
     </td>
-     <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/php/php-original.svg"
-        width="50"
-        height="50"
-        alt="php"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        width="40"
+        height="40"
+        alt="c++"
       />
-      <br /><strong>PHP</strong>
+      <br /><strong>C++</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg"
+        width="40"
+        height="40"
+        alt="c"
+      />
+      <br /><strong>C</strong>
     </td>
   </tr>
   <tr>
